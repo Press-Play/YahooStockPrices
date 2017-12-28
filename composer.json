@@ -1,5 +1,5 @@
 {
-    "name": "yahoos-stock-prices",
+    "name": "press-play/yahoo-stock-prices",
     "autoload": {
         "psr-0" : {
             "YahooStockPrices" : "src"
