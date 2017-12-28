@@ -9,7 +9,7 @@ Based off https://github.com/c0redumb/yahoo_quote_download
 ```
 <?php
 
-require 'FetchPrices.php';
+require 'PriceFetcher.php';
 
 \YahooStockPrices\PriceFetcher::getPrices('/home/user/Projects/', ['CBA.AX']);
 ```

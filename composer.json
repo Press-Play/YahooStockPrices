@@ -1,0 +1,8 @@
+{
+    "name": "yahoos-stock-prices",
+    "autoload": {
+        "psr-0" : {
+            "YahooStockPrices" : "src"
+        }
+    }
+}
